@@ -1,4 +1,4 @@
-# 🚀 Fortnite FPS Boost 2026 – Ultimate Performance Enhancer
+# 🚀 Fortnite FPS Boost 2026 – Ultimate Performance Enhancer 
 
 ![Version](https://img.shields.io/badge/Version-2026-important?style=for-the-badge&color=blueviolet)
 ![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=for-the-badge&color=0078d7)
@@ -9,7 +9,7 @@ Maximize your Fortnite gaming experience with the **Fortnite FPS Boost 2026** �
 
 ---
 
-## ✨ Key Features
+## ✨ Key Features:
 
 - **⚡ Intelligent Optimization** – Automatically adjusts system settings for optimal Fortnite performance
 - **🎮 Game-Ready Profiles** – Pre-configured settings for competitive, balanced, and quality modes
